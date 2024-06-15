@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  margin: 30px;
+  background:yellow;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+}
+</style>
+</head>
+<body>
+
+<h2>The outline-offset Property</h2>
+
+<p>This paragraph has an outline of 15px outside the border edge.</p>
+
+</body>
+</html>
+
+
